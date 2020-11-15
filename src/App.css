@@ -1,0 +1,65 @@
+body {
+  max-width: 60rem;
+  margin: 0 auto;
+}
+.App-header {
+  padding: 0 2rem;
+}
+.App-content {
+  padding: 0 2rem;
+}
+.App-footer {
+  padding: 2rem;
+  color: #ddd;
+  font-weight: 100;
+  font-size: 0.8rem;
+}
+
+.Risks {
+  margin: 1rem 0;
+  background-color: #5d2545;
+  padding: 0.5rem;
+  color: white;
+  font-style: italic;
+}
+.Risks h2, .Risks p {
+  padding: 0;
+  margin: 0;
+}
+
+.Portfolio {
+  margin-top: 2rem;
+}
+
+.Ticker {
+  margin-bottom: 10px;
+}
+
+.Button {
+  border: none;
+  background-color: #282c34;
+  border-radius: 3px;
+  color: white;
+  margin: 0;
+  padding: 0.25rem 0.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  outline: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+.Robinhood {
+  background-color: #21ce99;
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+}
+.Button:hover {
+  background-color: #363c47;
+}
+
+.Links {
+  margin-top: 3rem;
+}
+.margin-left-md {
+  margin-left: 1rem;
+}
